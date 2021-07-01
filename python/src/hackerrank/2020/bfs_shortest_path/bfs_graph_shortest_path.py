@@ -35,9 +35,9 @@ def bfs(start: Node):
     while not next_queue.empty():
         node = next_queue.get()
         for adjacent in node.children:
-            if adjacent.val not in visited:
+            if adjacent.value not in visited:
                 adjacent.depth = node.depth + 1
-                visited.add(adjacent.val)
+                visited.add(adjacent.value)
                 next_queue.put(adjacent)
 
 
