@@ -1,18 +1,9 @@
 # coding-challenges
 
-Solutions to various coding challenges from different sources, primarily in Python.
+Polyglot solutions to various coding challenges from different sources like
+LeetCode, HackerRank, Cracking the Coding Interview, etc.
 
-Requires: Python 3.7
-
-Create a [virtualenv](https://docs.python.org/3/library/venv.html):
-
-    $ python3 -m venv venv  
-    # ...or just 'python', assuming that points to a >=Python 3.7 installation
-
-Then activate it:
-
-    $ source venv/bin/activate
-
-Next, install the requirements (if applicable):
-
-    $ pip install -r requirements.txt
+For what it's worth, I think most of these challenges are a waste of time. Using
+these as a basis for hiring decisions is a terrible idea, but you probably know
+that already. However, for whatever reason, our industry is obsessed with them,
+so here is my take on some of the problems.

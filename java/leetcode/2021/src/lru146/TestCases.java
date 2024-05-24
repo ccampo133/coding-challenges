@@ -1,4 +1,4 @@
-package leetcode.lru146;
+package lru146;
 
 public class TestCases {
 
