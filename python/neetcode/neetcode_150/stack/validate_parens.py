@@ -1,3 +1,4 @@
+# https://neetcode.io/problems/validate-parentheses
 # Validate Parentheses
 # You are given a string s consisting of the following characters: '(', ')',
 # '{', '}', '[' and ']'.

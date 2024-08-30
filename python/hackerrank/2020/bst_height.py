@@ -1,7 +1,7 @@
 # https://www.hackerrank.com/challenges/30-binary-search-trees/problem
 # Get the height of a binary search tree.
 # NOTE: the code is structured this way because it was mandated by HR.
-# I wouldn't write in this styel normally.
+# I wouldn't write in this style normally.
 
 class Node:
     def __init__(self, data):

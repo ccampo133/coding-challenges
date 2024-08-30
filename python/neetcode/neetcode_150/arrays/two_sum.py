@@ -1,3 +1,4 @@
+# https://neetcode.io/problems/two-integer-sum
 # Two Integer Sum
 # Given an array of integers nums and an integer target, return the indices i
 # and j such that nums[i] + nums[j] == target and i != j.
@@ -38,6 +39,7 @@ def two_sum_slow(nums, tgt):
         for j in range(len(nums)):
             if i != j and nums[i] + nums[j] == tgt:
                 return [i, j]
+
 
 # time: O(n)
 # space: O(n)
