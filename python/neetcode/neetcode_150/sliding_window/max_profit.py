@@ -1,4 +1,5 @@
 # https://neetcode.io/problems/buy-and-sell-crypto
+# https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 # Buy and Sell Crypto
 # You are given an integer array prices where prices[i] is the price of NeetCoin
 # on the ith day.
