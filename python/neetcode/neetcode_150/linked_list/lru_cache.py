@@ -1,4 +1,5 @@
 # https://neetcode.io/problems/lru-cache
+# https://leetcode.com/problems/lru-cache/description/
 # LRU Cache
 # Implement the Least Recently Used (LRU) cache class LRUCache. The class should
 # support the following operations
