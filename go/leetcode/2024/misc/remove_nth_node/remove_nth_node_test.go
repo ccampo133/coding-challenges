@@ -1,4 +1,4 @@
-package misc
+package remove_nth_node
 
 import (
 	"testing"

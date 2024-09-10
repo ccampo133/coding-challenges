@@ -1,4 +1,4 @@
-package misc
+package remove_nth_node
 
 // https://leetcode.com/problems/remove-nth-node-from-end-of-list
 
